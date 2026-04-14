@@ -11,8 +11,9 @@ st.set_page_config(page_title="Titanic ML Projekt Stremlited by Kelompok 4 TPB",
 		   layout="wide")
 html_temp = """
 		<div style="background-color:#3872fb;padding:5px;border-radius:10px">
-		<h3 style="color:white;text-align:center;font-family:arial;">Titanic Machine Learning </h3>
+		<h3 style="color:white;text-align:center;font-family:arial;">Titanic Machine Learning Projekt Streamlited by Kelompok 4 TPB</h3>
 		<h3 style="color:white;text-align:center;font-family:arial;">PJJ DAS BDK Denpasar 2026</h3>
+        <h3 style="color:white;text-align:center;font-family:arial;">Gas semangat hari terakhir</h3>
 		</div>
 		"""
 
